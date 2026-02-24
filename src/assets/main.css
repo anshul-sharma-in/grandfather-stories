@@ -1,0 +1,10 @@
+html, body, #app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background: radial-gradient(circle at center, #1b2230 0%, #111418 65%);
+  font-family: 'Inter', sans-serif;
+}
