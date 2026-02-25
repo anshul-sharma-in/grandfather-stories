@@ -3,8 +3,7 @@
     <div class="background"></div>
 
     <main class="container">
-      <h1 class="title">Grandfather's Stories</h1>
-      <div class="divider"></div>
+      <h1 class="title">नाना की कहानियाँ</h1>
       <StoryAccordion />
     </main>
   </div>
