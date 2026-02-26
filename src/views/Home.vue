@@ -47,16 +47,6 @@ import StoryAccordion from "../components/StoryAccordion.vue"
   padding: 80px 24px 120px 24px;
 }
 
-/* Title */
-/* .title {
-  text-align: center;
-  font-size: clamp(32px, 5vw, 48px);
-  font-weight: 600;
-  margin-bottom: 60px;
-  color: #ffffff;
-  letter-spacing: 0.5px;
-} */
-
 .title {
   font-family: 'Playfair Display', serif;
   text-align: center;
